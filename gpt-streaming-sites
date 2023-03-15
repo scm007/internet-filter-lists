@@ -4,6 +4,7 @@
 ||netflix.com^
 ||hulu.com^
 ||amazon.com/gp/video^
+||*.amazon.com/*/video^
 ||disneyplus.com^
 ||youtube.com^
 ||hbomax.com^
