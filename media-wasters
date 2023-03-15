@@ -11,8 +11,9 @@
 ||peacocktv.com^
 ||cc.com^
 ||netflix.com^
-||https://www.amazon.com/gp/video/^
 ||vudu.com^
 ||plutotv.com^
 ||tubi.com^
-||https://www.amazon.com/Amazon-Video/^
+||amazon.com/Amazon-Video/*
+||amazon.com/gp/video/*
+
