@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Steves Content Wasters Domains
+! Title: Steves Media Wasters Domains
 ! Expires: 2 days
 ! Homepage: https://github.com/cb-software/CB-Malicious-Domains
 ! Licence: https://github.com/cb-software/CB-Malicious-Domains/blob/master/LICENSE
@@ -11,7 +11,8 @@
 ||peacocktv.com^
 ||cc.com^
 ||netflix.com^
-||https://www.amazon.com/gp/video/*^
+||https://www.amazon.com/gp/video/^
 ||vudu.com^
 ||plutotv.com^
 ||tubi.com^
+||https://www.amazon.com/Amazon-Video/^
