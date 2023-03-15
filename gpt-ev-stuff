@@ -1,0 +1,38 @@
+[Adblock Plus 2.0]
+! Steves GPT Top 15 EV News & Electric Bike Blacklist
+! Version: 1.2
+! Last updated: [Current Date]
+!
+! Block top 15 electric vehicle news sites
+! -----------------------------------------------------
+||electrek.co^
+||cleantechnica.com^
+||insideevs.com^
+||greencarreports.com^
+||caranddriver.com/electric-car^
+||plugincars.com^
+||chargedevs.com^
+||electrifiedreviews.com^
+||motor1.com/electric-c^
+||autoblog.com/green^
+||theverge.com/electric-cars^
+||futurism.com/tag/electric-cars^
+||carscoops.com/tag/electric-cars^
+||hybridcars.com^
+||teslarati.com/category/electric-cars^
+!
+! Block top 13 electric bike blogs
+! -----------------------------------------------------
+||electricbikereview.com^
+||ebike-mtb.com^
+||electricbike.com^
+||electricbikereport.com^
+||bikerumor.com/category/electric-bikes^
+||electricbikeaction.com^
+||electrek.co/electric-bikes^
+||electricbikeinsider.com^
+||ebikegeneration.com^
+||ebikeescape.com^
+||ebikechoices.com^
+||electricbikereviewed.com^
+||ebikeobsessed.com^
