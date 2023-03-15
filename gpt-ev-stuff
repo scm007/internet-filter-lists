@@ -1,10 +1,6 @@
 [Adblock Plus 2.0]
-! Steves GPT Top 15 EV News & Electric Bike Blacklist
-! Version: 1.2
-! Last updated: [Current Date]
+! Title: Steves GPT Top 15 EV News & Electric Bike Blacklist
 !
-! Block top 15 electric vehicle news sites
-! -----------------------------------------------------
 ||electrek.co^
 ||cleantechnica.com^
 ||insideevs.com^
