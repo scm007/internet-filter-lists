@@ -1,0 +1,59 @@
+[Adblock Plus 2.0]
+! Steves GPT Top 50 Streaming Video Blacklist
+! Version: 1.0
+! Last updated: [Current Date]
+!
+! Block top 50 streaming video websites
+! -----------------------------------------------------
+||netflix.com^
+||hulu.com^
+||amazon.com/gp/video^
+||disneyplus.com^
+||youtube.com^
+||hbomax.com^
+||peacocktv.com^
+||twitch.tv^
+||vimeo.com^
+||dailymotion.com^
+||tiktok.com^
+||crunchyroll.com^
+||funimation.com^
+||vudu.com^
+||crave.ca^
+||fubo.tv^
+||hbonow.com^
+||nowtv.com^
+||nbc.com/live^
+||cbs.com^
+||abc.com^
+||fox.com^
+||tv.apple.com^
+||stan.com.au^
+||kodi.tv^
+||roku.com^
+||sling.com^
+||youtube.tv^
+||ustvgo.tv^
+||tubitv.com^
+||ustvnow.com^
+||pluto.tv^
+||tvmuse.com^
+||watch-series.com^
+||stream2watch.ws^
+||putlockers.me^
+||sockshare.net^
+||popcornflix.com^
+||snagfilms.com^
+||kanopy.com^
+||acorn.tv^
+||filmstruck.com^
+||tcm.com^
+||shudder.com^
+||ifc.com^
+||sundance.tv^
+||flixpremiere.com^
+||docur.co^
+||mubi.com^
+||viki.com^
+||tvplayer.com^
+||zattoo.com^
