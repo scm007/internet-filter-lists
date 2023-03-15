@@ -1,10 +1,6 @@
 [Adblock Plus 2.0]
 ! Steves GPT Top 50 Streaming Video Blacklist
-! Version: 1.0
-! Last updated: [Current Date]
-!
-! Block top 50 streaming video websites
-! -----------------------------------------------------
+
 ||netflix.com^
 ||hulu.com^
 ||amazon.com/gp/video^
