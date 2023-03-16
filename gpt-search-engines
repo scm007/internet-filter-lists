@@ -1,8 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Top 28 Search Engines Blacklist (Excluding Google and Wolfram Alpha)
 !
-||google.com^$domain=google.com|~subdocument,important
-@@||google.com/flights^$domain=google.com
 ||bing.com^
 ||neeva.com^
 ||yahoo.com^
