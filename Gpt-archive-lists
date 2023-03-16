@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+! Title: Block All Archive.today, Competitive Services, ArchiveBox, and Wayback Machine Domains
+
+||archive.today^
+||archive.is^
+||archive.fo^
+||archive.li^
+||archive.vn^
+||archive.md^
+||archive.ph^
+||archive.org^
+||web.archive.org^
+||perma.cc^
+||webcitation.org^
+||archive-it.org^
+||mementoweb.org^
+||screenshot.guru^
+||pagerecapture.com^
+||waybackdownloader.com^
+||cachedview.com^
+||stillio.com^
+||urlscan.io^
+||freezepage.com^
+||archivebox.io^
