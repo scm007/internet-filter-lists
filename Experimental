@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+! Title: Steves Content experimental Domains
+! Homepage: https://github.com/cb-software/CB-Malicious-Domains
+! Licence: https://github.com/cb-software/CB-Malicious-Domains/blob/master/LICENSE
+!
+||google.com^$domain=~www.google.com
