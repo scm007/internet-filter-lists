@@ -3,6 +3,6 @@
 ! Homepage: https://github.com/cb-software/CB-Malicious-Domains
 ! Licence: https://github.com/cb-software/CB-Malicious-Domains/blob/master/LICENSE
 !
-|http://www.google.com$document
-|https://www.google.com$document
+||http://www.google.com$document
+||https://www.google.com$document
 
